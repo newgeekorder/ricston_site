@@ -1,3 +1,8 @@
+title: UK Tech Cities 
+tags: richard.donovan
+
+---- 
+
 ## New Wave of new Tech to hit UK Cities
 
 The much hyped Internet of Things (IoT) "revolution" where everyday objects that are communicating with each other is about to start rolling out into homes and UK cities
